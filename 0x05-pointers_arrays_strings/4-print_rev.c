@@ -16,3 +16,6 @@ for (len = len; len != 0; len--)
 _putchar(*s);
 s--;
 }
+
+_putchar('\n');
+}
